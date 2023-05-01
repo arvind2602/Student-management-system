@@ -1,4 +1,4 @@
-# Student Management System
+# Student Management System 
 
 ## Overview
 The Student Management System is a web-based application developed using Django framework that allows educational institutions to manage their student data efficiently. It provides a user-friendly interface for creating and managing student profiles, course registrations, attendance records, and grades.
